@@ -1,0 +1,190 @@
+header {
+    background-image: url("Image faunes et flores 3.jpg");
+    background-repeat: no-repeat;
+    background-size: 50 % 50 %;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #000000;
+    color: #00040a;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.2em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: 0.4rem 0;
+}
+
+address {
+    font-style: center ; border-left-color: aquamarine; 
+}
+
+p {
+    background-image: url("Image faunes et flores 3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #000000;
+    color: #00040a;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.2em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+footer {
+    font-family: "Times New Roman", Times, serif; 
+    font-size: 0.8em;
+    text-align: center;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+
+}
+
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    color: #f13c05de;
+}
+
+h2 {
+    font-size: 2.5em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background-color: #74992e;
+}
+
+h3 {
+    font-size: 1.5em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    line-height: 2;
+    line-break: 2;
+    border-color: #001103de; border-style: initial;
+}
+
+h4 {
+    font-size: 1.3em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+li {
+    font-size: 1em;
+    color: indianred;
+    text-align: justify;
+    text-indent: 0em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    list-style-type: none;
+}
+
+table{
+    border-collapse: collapse;
+}
+td, th{
+    border: 5px dashed rgb(4, 19, 1);
+    padding: 0.5rem;
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+    background-image: url("Image faunes et flores 3.jpg");
+    background-position: center;
+    color: white;
+    opacity: 0.8;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 0.8em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 2px solid rgb(4, 19, 1);
+    column-width: 120px;
+    column-gap: 2em;
+    column-rule: 2px solid rgb(4, 19, 1);
+    column-span: all;
+    }
+
+    .col {
+        -ms-flex-preferred-size: 0;
+        flex-basis: 0;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        max-width: 100%;
+    }
+    
+    .col-auto {
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        width: auto;
+        max-width: 100%;
+    }
+    
+    .col-1 {
+        -ms-flex: 0 0 8.333333%;
+        flex: 0 0 8.333333%;
+        max-width: 8.333333%;
+    }
+    
+    .col-2 {
+        -ms-flex: 0 0 16.666667%;
+        flex: 0 0 16.666667%;
+        max-width: 16.666667%;
+    }
+    
+    .col-3 {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+    
+    .col-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+    }
