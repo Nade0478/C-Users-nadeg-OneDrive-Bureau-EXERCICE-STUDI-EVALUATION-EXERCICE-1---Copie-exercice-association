@@ -1,0 +1,217 @@
+background-image: url("incendiary.jpg"); {
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+background-color: #000000;
+color: #ffffff;
+font-family: "Times New Roman", Times, serif;
+font-size: 1.5em;
+text-align: justify;
+text-indent: 2em;
+margin: 0;
+padding: 0;
+border: 0;
+border-radius: 0;
+}
+
+@media screen, print {
+    background-image: url("incendiary.jpg");
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    min-width: x-small;
+    max-width: x-large;
+    min-height: x-small;
+    max-height: x-large;
+    overflow: auto;
+    overflow-x: auto;
+    overflow-y: auto;
+    overflow-style: auto;
+    overflow-wrap: auto;
+    overflow-scrolling: auto;
+    overflow-anchor: auto;
+    overflow-clip-box: auto;
+    overflow-clip-margin: auto;
+    overflow-clip-padding: auto;
+    overflow-clip: auto;
+    overflow-inline: auto;
+    overflow-offset: auto;
+    overflow-position: auto;
+}
+
+html {
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #0e4207;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.5em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+body {
+    background-position: center;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.5em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+div class {
+    background-attachment: fixed;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.5em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    column-width: auto;
+    column-count: 2;
+    column-gap: 1em;
+    column-rule: 1px solid #000000;
+    column-rule-style: solid;
+    column-rule-width: 1px; 
+    column-rule-color: #7ccf0f;
+    column-span: all;
+    column-fill: balance;
+}
+
+column-style {
+    column-width: auto; 
+    column-count: 2;
+    column-gap: 1em;
+    column-rule: 1px solid #000000;
+    column-rule-style: solid;
+    column-rule-width: 1px; 
+    column-rule-color: #7ccf0f;
+    column-span: all;
+    column-fill: balance;
+    text-align: center;
+}
+
+p {
+    background-image: url("incendiary.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 0.8em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    color: #f13c05de;
+}
+
+h2 {
+    font-size: 2.5em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background-color: #74992e;
+}
+
+h3 {
+    font-size: 1.5em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    line-height: 2;
+    line-break: 2;
+    border-color: #001103de; border-style: initial;
+}
+
+h4 {
+    font-size: 1.3em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+li {
+    font-size: 1em;
+    color: indianred;
+    text-align: justify;
+    text-indent: 0em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    list-style-type: none;
+}
+
+background-image: url("Image faunes et flores 3.jpg"){background-image: url("Image faunes et flores 3.jpg")
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 0.8em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+.selector-for-some-widget {
+box-sizing: content-box;
+}
+
+footer {
+    background-color: #000000;
+    color: #676868;
+    font-family: "Times New Roman", Times, serif, italic;
+    font-size: 0.5em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
