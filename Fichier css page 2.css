@@ -1,0 +1,185 @@
+p {
+    background-image: url("feuilles.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 0.8em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    color: #f13c05de;
+}
+
+h2 {
+    font-size: 2.5em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background-color: #74992e;
+}
+
+h3 {
+    font-size: 1.5em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    line-height: 2;
+    line-break: 2;
+    border-color: #001103de; border-style: initial;
+}
+
+h4 {
+    font-size: 1.3em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+li {
+    font-size: 1em;
+    color: indianred;
+    text-align: justify;
+    text-indent: 0em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    list-style-type: none;
+}
+
+background-image: { url("feuille.jpg"); }
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 0.8em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    color: #f13c05de;
+}
+
+h2 {
+    font-size: 2.5em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background-color: #74992e;
+}
+
+h3 {
+    font-size: 1.5em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    line-height: 2;
+    line-break: 2;
+    border-color: #001103de; border-style: initial;
+}
+
+h4 {
+    font-size: 1.3em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+li {
+    font-size: 1em;
+    color: indianred;
+    text-align: justify;
+    text-indent: 0em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    list-style-type: none;
+}
+
+background-image {
+    url "C:\Users\nadeg\OneDrive\Bureau\EXERCICE STUDI EVALUATION\EXERCICE 1 - Copie\exercice association\feuilles.jpg";
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 0.8em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+nav {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 0.8em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
