@@ -1,0 +1,65 @@
+html {
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #0e4207;
+    color: #ce8909;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.5em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+body {
+    background-position: center;
+    background-color: #137733;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.5em;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+}
+
+div class {
+    background-attachment: fixed;
+    background-color: #072a0c;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    column-width: auto;
+    column-count: 2;
+    column-gap: 1em;
+    column-rule: 1px solid #000000;
+    column-rule-style: solid;
+    column-rule-width: 1px; 
+    column-rule-color: #7ccf0f;
+    column-span: all;
+    column-fill: balance;
+}
+
+column-style {
+    column-width: auto; 
+    column-count: 2;
+    column-gap: 0.5em;
+    column-rule: 1px solid #420c0c;
+    column-rule-style: solid;
+    column-rule-width: 1px; 
+    column-rule-color: #7ccf0f;
+    column-span: all;
+    column-fill: balance;
+}
+
+/* Path: CSS page 5.css */
