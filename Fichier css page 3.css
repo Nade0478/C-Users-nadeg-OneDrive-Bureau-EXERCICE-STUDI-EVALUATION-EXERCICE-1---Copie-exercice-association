@@ -31,7 +31,8 @@ label {
 }
 
 address {
-    font-style: center ; border-left-color: aquamarine; 
+    font-style: center ; border-left-color: aquamarine;
+    font-size: x-small; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 p {
