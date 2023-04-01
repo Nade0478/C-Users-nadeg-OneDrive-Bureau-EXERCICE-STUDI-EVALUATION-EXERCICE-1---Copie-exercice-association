@@ -53,19 +53,6 @@ p {
     border-radius: 0;
 }
 
-footer {
-    font-family: "Times New Roman", Times, serif; 
-    font-size: 0.8em;
-    text-align: center;
-    text-indent: 2em;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    border-radius: 0;
-
-}
-
-
 h1 {
     font-size: 4em;
     text-align: center;
@@ -189,3 +176,15 @@ table{
         flex: 0 0 33.333333%;
         max-width: 33.333333%;
     }
+
+footer {
+    font-family: "Times New Roman", Times, serif; 
+    font-size: 0.8em;
+    text-align: center;
+    text-indent: 2em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+
+}
